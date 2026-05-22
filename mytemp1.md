@@ -16,7 +16,7 @@
 </td>
 <td style="padding: 15px; text-align: center; border-right: 1px solid #ffcc80;">
 <h4 style="margin: 0; color: #e65100;">⏱️ Duration</h4>
-<p style="margin: 5px 0 0 0; font-weight: bold;">2–3 Days (The “Acceleration” Phase)</p>
+<p style="margin: 5px 0 0 0; font-weight: bold;">3-4 Days (The “Acceleration” Phase)</p>
 </td>
 <td style="padding: 15px; text-align: center;">
 <h4 style="margin: 0; color: #e65100;">🤖 AI Status</h4>
@@ -84,20 +84,22 @@ Once all checks pass, proceed to the calibration pillars below.
 
 ---
 
-## 🏢 **Your Induction Journey: The Three Pillars of AI Partnership**
+## 🏢 **Your Induction Journey: The Four Pillars of AI Partnership**
 
 **🚀 Foundation First, AI Next, Projects Last.**  
 **💎 Gemstone by Gemstone, Skill by Skill.**
 
-This 3‑day calibration prepares you to work with AI as a Socratic partner. Each pillar builds on the previous, transforming your learning environment into an AI‑augmented professional workspace.
+This **4‑day calibration** prepares you to work with AI as a Socratic partner. Each pillar builds on the previous, transforming your learning workflow into an **AI-augmented** professional reasoning system.
 
 | Pillar | Duration | Core Focus | **Calibration Outcome** |
 | :--- | :--- | :--- | :--- |
 | **🎭 1. AI Partnership Setup** | Day 1 | Guardrails, Persona & Socratic Journal | **AI as Mentor:** A configured co‑pilot that never writes code, only explains logic. |
 | **⚡ 2. Query Optimization** | Day 2 | Efficiency Patterns & Anti‑Patterns | **Speed Mindset:** Knowing how to prompt for performance and spot AI hallucinations. |
 | **🧠 3. Socratic Method** | Day 3 | Prompting Ladder, Validation, Context Feeding | **Critical Thinking:** The art of extracting reliable logic from an AI. |
+| **📚 4. Mirror Bridge + Vault Build** | Day 4 | Structural isomorphism & permanent Vault creation | **Pattern Recognition + ACCELERATE Ready:** Understanding the structural mirror between ACQUIRE and ACCELERATE, and building a permanent, queryable Vault for your cognitive artifacts. |
 
-**Total Time:** 2–3 hours over 3 days → **Result:** A calibrated AI partnership for the ACCELERATE module (Module 5).
+
+**Total Time:** 2–3 hours over 4 days → **Result:** A calibrated AI partnership for the ACCELERATE module (Module 5).
 
 ---
 
@@ -133,19 +135,21 @@ Professionals ask AI to sharpen their thinking.
 
 **You have chosen the professional path.**
 
-### 🎯 **Your 3‑Day AI Partnership Preparation**
+### 🎯 **Your 4‑Day AI Partnership Preparation**
 
 ```mermaid
 flowchart LR
     A["Calibrate<br/>AI Partnership Setup"] --> 
     B["Calibrate<br/>Query Optimization"] --> 
     C["Calibrate<br/>Socratic Method"] --> 
-    D["Ready for<br/>ACCELERATE Module"]
+    D["Calibrate<br/>Mirror Bridge + Vault Build"] --> 
+    E["Ready for<br/>ACCELERATE Module"]
     
     style A fill:#e1f5fe,stroke:#2196f3,stroke-width:3px
     style B fill:#f3e5f5,stroke:#9c27b0,stroke-width:3px
     style C fill:#fff8e1,stroke:#ff9800,stroke-width:3px
     style D fill:#e8f5e8,stroke:#4caf50,stroke-width:3px
+    style E fill:#c8e6c9,stroke:#2e7d32,stroke-width:3px
 ```
 
 ### Your Entry Point – One Clear Path
@@ -161,11 +165,12 @@ You enter the ACCELERATE phase **only after** you have completed the **ACQUIRE C
 Once your Skill‑Tree database is ready, proceed with the three calibration steps below.
 
 
-### **The Three‑Step Calibration Sequence**
+### **The Four‑Step Calibration Sequence**
 
 1. **🎭 Calibrate AI Partnership Setup** – Guardrails, persona, Socratic Journal
 2. **⚡ Calibrate Query Optimization** – Efficiency patterns, anti‑patterns, speed challenges
 3. **🧠 Calibrate Socratic Method** – Prompting ladder, validation checklist, context feeding
+4. **📚 Calibrate Mirror Bridge + Vault Build** – Structural isomorphism, permanent Vault creation, scratchpad migration, verification readiness
 
 **Each step builds on the previous.** Complete them in order for maximum effectiveness.
 
@@ -173,13 +178,15 @@ Once your Skill‑Tree database is ready, proceed with the three calibration ste
 
 ## 📋 **WHAT YOU’LL ACHIEVE**
 
-### **By the End of This 3‑Day Preparation:**
+### **By the End of This 4‑Day Preparation:**
 
 | **Day** | **Focus** | **Outcome** |
 | :--- | :--- | :--- |
-| **1** | AI Partnership Setup | Socratic Journal configured, AI persona fixed to “never write code” |
-| **2** | Query Optimization | Ability to prompt for performance and spot AI hallucinations |
-| **3** | Socratic Method + Integration | Mastery of the Prompting Ladder and validation checks |
+| **1** | AI Partnership Setup | Socratic Journal boundaries set, AI persona configured. |
+| **2** | Query Optimization | Ability to prompt for performance and spot AI hallucinations. |
+| **3** | Socratic Method + Integration |Mastery of Prompting Ladder and validation checklist. |
+ | **4** | Mirror Bridge + Vault Build | Understand structural mirror, build permanent Vault, migrate scratchpad content. |
+
 
 ### **The Professional Advantage You Gain:**
 1. **AI Collaboration Mastery:** You lead the AI – it never leads you.
@@ -196,10 +203,10 @@ Once your Skill‑Tree database is ready, proceed with the three calibration ste
 > *“The master craftsman never blames his tools; he sharpens his own mind.”*  
 > — *SQLVerse Proverb*
 
-**As you begin your 3‑day calibration, remember what you’re building toward:**
+**As you begin your 4‑day calibration, remember what you’re building toward:**
 
 **🎭 Pillar 1: The Socratic Journal**  
-*“You don’t ask AI for code. You ask: ‘What is the logical relationship between these entities?’ Then you write the SQL yourself. Every dialogue is logged in your Vault – proof of your thinking, not just your typing.”*
+*“You don’t ask AI for code. You ask: ‘What is the logical relationship between these entities?’ Then you write the SQL yourself. Every dialogue is captured in your `Temporary Scratchpad` – raw material for later structuring and  proof of your thinking, not just your typing.”*
 
 **⚡ Pillar 2: Speed & Efficiency**  
 *“You know that `SELECT *` is a lie. You know that `LIMIT` is your friend. You spot an AI hallucination before it runs. You don’t just write queries – you engineer them for performance.”*
@@ -207,46 +214,69 @@ Once your Skill‑Tree database is ready, proceed with the three calibration ste
 **🧠 Pillar 3: The Socratic Method**  
 *“You climb the Prompting Ladder: from ‘I’m stuck’ to ‘Explain the relationship between these two tables.’ You validate every AI answer with five questions. You feed the AI your schema so its advice is grounded in reality.”*
 
-**These three pillars will transform you from a manual SQL coder into an AI‑accelerated Artisan. Begin your calibration.**
+**📚 Pillar 4: Mirror Bridge + Vault Build**  
+*You understand why ACCELERATE perfectly mirrors ACQUIRE – same filenames, same databases, same characters. Then you build your permanent ACCELERATE Vault. You migrate your `Temporary Scratchpad` notes into a structured, queryable knowledge system. This is not folder exercise – it is a **knowledge engineering milestone**.*
 
-This is your actionable 3‑day calibration plan. Follow the sequence below.
+**These four pillars will transform you from a manual SQL coder into an AI‑accelerated Artisan. Begin your calibration.**
+
+---
+
+## 📝 How to Work Through Pillars 1–3 (Temporary Capture)
+
+**Pillars 1–3 are your cognitive calibration phase.** You will use a lightweight **`Temporary Scratchpad`** — a provisional workspace implemented as a simple text file — for capturing raw cognitive artifacts during Pillars 1–3. Do not worry about folders or permanent storage yet. Your only job is to **collect raw cognitive material**.
+
+**Pillar 4 is your knowledge architecture phase.** After you have internalised the Socratic method, query optimisation, and validation discipline, you will:
+
+- Build your permanent **ACCELERATE Vault** (folder structure, `INDUCTION_TASKS/`, `01-The-Socratic-Mirror/`, etc.)
+- **Migrate** your `Temporary Scratchpad` content into a structured retrieval system
+- Transform scattered notes into a professional knowledge portfolio
+
+This order is intentional: **discipline first, structure second, retrieval mastery third.** The Vault is not administrative setup – it is a **knowledge engineering milestone** where you formalise your accumulated work.
+
+> *“Capture first. Structure later. Retrieve forever.”*
+
+---
+
+This is your actionable 4‑day calibration plan. Follow the sequence below.
 
 ### 🚀 **PHASE 1: BEGIN YOUR CALIBRATION**
 *[This is Day 0 – The Launch Pad]*
 
 <div align="center" style="border: 3px solid #ff9800; border-radius: 10px; padding: 25px; margin: 30px 0; background: linear-gradient(135deg, #fff8e1 0%, #ffe0b2 100%); box-shadow: 0 8px 20px rgba(255, 152, 0, 0.2);">
 
-### **🎯 Your 3‑Day Calibration Journey Navigation**
+### **🎯 Your 4‑Day Calibration Journey Navigation**
 
-**Complete ALL 3 calibration steps, then proceed to verification:**
+**Complete ALL 4 calibration steps, then proceed to verification:**
 
 ```mermaid
 flowchart LR
     A["<span style='font-size:12px'>1️⃣ START HERE<br/>Calibrate AI Partnership Setup</span>"] --> 
     B["<span style='font-size:12px'>2️⃣ Calibrate<br/>Query Optimization</span>"] --> 
     C["<span style='font-size:12px'>3️⃣ Calibrate<br/>Socratic Method</span>"] -->
-    D["<span style='font-size:12px'>✅<br/>Verify Readiness<br/>Test & Unlock Module 5</span>"]
+    D["<span style='font-size:12px'>4️⃣ Calibrate<br/>Mirror Bridge + Vault Build</span>"] -->
+    E["<span style='font-size:12px'>✅<br/>Verify Readiness<br/>Test & Unlock Module 5</span>"]
     
     style A fill:#e1f5fe,stroke:#2196f3,stroke-width:3px
     style B fill:#f3e5f5,stroke:#9c27b0,stroke-width:3px
     style C fill:#fff8e1,stroke:#ff9800,stroke-width:3px
-    style D fill:#fff,stroke:#ff9800,stroke-width:3px,stroke-dasharray: 5 5
+    style D fill:#e8f5e8,stroke:#4caf50,stroke-width:3px
+    style E fill:#fff,stroke:#ff9800,stroke-width:3px,stroke-dasharray:5 5
 ```
 
-**🔒 Module 5 (ACCELERATE) remains locked until ALL 3 calibration steps are completed and verified.**
+**🔒 Module 5 (ACCELERATE) remains locked until ALL 4 calibration steps are completed and verified.**
 
 # [▶️ **BEGIN STEP 1: AI PARTNERSHIP SETUP**](./Section2-ACCELERATE/1_AI_Partnership_Setup.md)
 
-**Complete all 3 steps → Then go to verification → Unlock Module 5**
+**Complete all 4 steps → Then go to verification → Unlock Module 5**
 
-<small>*All three calibration steps must be completed before verification*</small>
+<small>*All four calibration steps must be completed before verification*</small>
 
 </div>
 
 ### ✅ **WHAT HAPPENS AFTER CALIBRATION?**
-*[After completing all 3 steps – Day 3+]*
+*[After completing all 4 steps – Day 4+]*
 
-**After completing Steps 1‑3, your next action is:**
+**After completing Steps 1‑4, your next action is:**
 
 1. **Go to** [SECTION2 INDUCTION FINISH STEP](./SECTION2_INDUCTION_FINISH.md)
 2. **Complete** the verification test
@@ -255,14 +285,14 @@ flowchart LR
 
 **Your Journey Path:**
 ```
-Start Here → Step 1 → Step 2 → Step 3 → Verification → Module 5
+Start Here → Step 1 → Step 2 → Step 3 → Step 4 → Verification → Module 5
 ```
 
 ---
 
 <div align="center" style="margin-top: 40px; padding: 15px; background: #f5f5f5; border-radius: 6px; font-size: 0.9em;">
 
-**Calibration Time:** 2‑3 hours over 3 days  
+**Calibration Time:** 2‑3 hours over 4 days  
 **Verification Required:** Complete verification test in `SECTION2_INDUCTION_FINISH.md`  
 **Module 5 Access:** Granted after passing verification  
 **Remember:** AI is your Socratic mentor – never your ghostwriter.
