@@ -7,17 +7,20 @@
 
 ## Table Grain vs. Query Grain & Grain Alignment
 
-**Document Type:** Grain Foundations — Part 2 of 3  
+**Document Type:** Grain Foundations — Part 2A
 **Version:** 1.0  
 **Status:** FROZEN  
-**Location:** `SQLVerse-Architects-Blueprint/01-GRAIN-FOUNDATIONS/`  
+**Location:** `SQLVerse-Architects-Blueprint/02-GRAIN-FOUNDATIONS/`  
 **Governing Standard:** `SQLVERSE-ARCH-FW-001`
+
+---
+*Continues from [Part 1, Grain Basics](01-grain-basics.md). Every table has a grain, and a primary key defines identity while grain defines meaning. This part asks what happens to that meaning when a query produces a result of its own.*
 
 ---
 
 ## 🔗 From the Architect's Blueprint
 
-In **ACQUIRE Files 2 & 3**, you learned how tables stay connected through Foreign Keys and how relationships are classified (1:1, 1:N, M:N). You built junction tables like `order_items` and `LoanApplications` to resolve many-to-many relationships.
+In **ACQUIRE, Module 4 (*Relationships*, `3-Relationships.md`)**, you learned how tables stay connected through Foreign Keys and how relationships are classified (1:1, 1:N, M:N). 
 
 **You learned:**
 
@@ -224,7 +227,7 @@ You have now learned the core diagnostic framework:
 - Required Grain vs. Available Grain
 - The Restaurant Chain domain and its three tables
 
-In `02B-restaurant-chain-pattern-analysis.md`, you will apply this framework to six real business questions — each with a different grain — and see exactly how to diagnose, plan, and execute the correct query.
+In Part 2B, you will apply this framework to six business questions, each with a different grain, and see how to diagnose, plan and execute the correct query.
 
 **You will learn:**
 
@@ -235,10 +238,8 @@ In `02B-restaurant-chain-pattern-analysis.md`, you will apply this framework to 
 
 ---
 
-## 🔁 Bridge to 02B
-
-
-**Proceed to `02B-restaurant-chain-pattern-analysis.md` to apply what you have learned.**
+**Next:** [Part 2B, Restaurant Chain Analysis](02B-restaurant-chain-pattern-analysis.md)
+*You can now compare the grain a question requires with the grain a table stores. Part 2B applies that comparison to six questions about the SpiceRoute chain.*
 
 ---
 
